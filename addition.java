@@ -1,4 +1,4 @@
-public class methoddemo {
+public class Methoddemo {
 int add(int a, int b)  {
  return (a+b);
 }
